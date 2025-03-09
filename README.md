@@ -10,3 +10,6 @@ Wait for indexing to complete.
 Click "Trust Project" if prompted.
 Click "Sync Now" to sync Gradle
 Connect an Android device or launch an Emulator.
+
+
+(login.zip file has only the login page)
